@@ -1,0 +1,314 @@
+@media (min-width: 1200px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1260px;
+    }
+}
+.section1{
+    padding:10px 0;
+    min-height:5vw;
+}
+.section1 .col-xl-4{
+    border-left:1px solid rgb(230, 219, 219);
+}
+.section1 .line{
+    border-right:1px solid rgb(230, 219, 219);
+}
+.section1 .col-xl-3 .icons i{
+    margin:10px;
+    font-size:20px;
+    color:rgb(71, 68, 68);
+}
+/********section1 complete**********/
+
+.section2 .navbar #navbarDropdown{
+    color:white;
+}
+.section2 .navbar .cbtn{
+    background-color:white;
+}
+.form-inline{
+    color:white;
+}
+.form-inline input[type=text]{
+    background-color:blue;
+    border:none;
+    border-radius:0;
+    color:white;
+}
+.form-inline .sbtn{
+    border:none;
+    background-color: blue;
+    color:white;
+    border-radius:0;
+    height:37px;
+}
+.form-inline #basic-addon1 i{
+    color:white;
+    background-color:blue;
+}
+/********section2 complete**********/
+
+.section3 .container-fluid{
+    clear:both;
+    background-color: red;
+    height:43vw;
+    background-image: url("../images/main-img1.jpg");
+    background-size: cover;
+}
+.section3 .container-fluid .container{
+    padding:7vw 0;
+}
+.section3 .container-fluid .col-lg-6{
+    color:white;
+}
+.section3 .container-fluid .col-lg-4 form{
+    background-color:white;
+    padding:5vw 2vw;
+    text-align:center;
+}
+/********section3 complete**********/
+
+.section4 .container{
+    min-height:45vw;
+    padding:5vw 7vw;
+}
+.section4 .container .row{
+    margin-top:4vw;
+}
+.section4 .container .card{
+    border:none;
+}
+.section4 .container .card .card-text{
+    font-size:15px;
+    color:rgb(185, 169, 169);
+}
+.heading{
+    text-align:center;
+}
+.heading p{
+    color:rgb(185, 169, 169);
+}
+.heading h2{
+    font-weight:bold;
+}
+.heading h2 span{
+    color:blue;
+}
+.section4 .container .row span i{
+    font-size:60px;
+}
+.section4 .container .btns{
+    text-align:center;
+}
+.btn-secondary{
+    background-color: white;
+    border:1px solid blue;
+    color:blue;
+}
+/********section4 complete**********/
+
+.section5 .container{
+    min-height: 45vw;
+    padding:3vw;
+}
+.section5 .container .nav .nav-item{
+    border:1px solid rgb(219, 213, 213);
+    margin:2vw;
+    border-radius:5px;
+}
+.section5 .container .nav .nav-item .active{
+    border:1px solid blue;
+    border-radius:5px;
+}
+.section5 .container .row .right li{
+    list-style-type: none;
+}
+.section5 .container .row .right p i{
+    color:blue;
+}
+.paragraph{
+    font-size:17px;
+    color:rgb(158, 142, 142);
+}
+/********section5 complete**********/
+
+.section6 .container{
+    padding:3vw 4vw;
+}
+.section6 .container .col-7 .card{
+    width:18rem;
+    margin:1vw;
+    border:none;
+}
+.section6 .container .col-7 .card h5,p{
+    margin:0;
+}
+/********section6 complete**********/
+
+.section7{
+    background-image: url("../images/img1.jpg");
+    height:15vw;
+}
+.section7 .container{
+    padding:5vw 0;
+}
+.section7 .container .heading{
+    text-align:left;
+}
+/********section7 complete**********/
+
+.section8{
+    min-height:40vw;
+}
+.section8 .container{
+    padding:4vw 0;
+}
+.carousel-inner{
+    min-height:35vw;
+    padding:0 5vw;
+}
+.section8 .container .carousel-inner .col-xl-6 .card{
+    margin:4vw 3vw;
+    border:none;
+    box-shadow: 10px 10px 5px #eee4e4;
+    padding:0.5vw;
+}
+.section8 .container .carousel-inner .col-xl-6 .card img{
+    border-radius: 100%;
+}
+.carousel-indicators li{
+    height:10px;
+    width:10px;
+    border-radius:100%;
+    background-color:blue;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: blue;
+    border-radius:100%;
+    padding:5px;
+}
+/********section8 complete**********/
+.section9{
+    background-color: blue;
+    color:white;
+    min-height:13vw;
+}
+.section9 .container{
+    padding:3vw 0;
+}
+.section9 .container .col-3{
+    text-align:center;
+}
+.section9 .container .col-3 h1{
+    font-size:60px;
+    font-weight:bold;
+}
+.section9 .container .col-3 b{
+    color:rgb(201, 201, 228);
+}
+/********section9 complete**********/
+.section10{
+    min-height:40vw;
+    padding:5vw 0;
+}
+.section10 .container{
+    min-height:35vw;
+    background-image: url("../images/map3.png");
+    background-size: 100% 100%;
+}
+.section10 .container .align-self-center{
+    padding:2vw;
+}
+.section10 .container .align-self-center p{
+    color: rgb(158, 142, 142);
+}
+.section10 .container .align-self-center h1{
+    color:rgb(5, 5, 138);
+    font-weight: bold;
+}
+.section10 .container .align-self-center small{
+    color:rgb(5, 5, 138);
+}
+.section10 .container .align-self-center small i{
+    font-size:17px;
+    color:blue;
+    background-color: rgb(205, 205, 248);
+    padding:15px;
+    border-radius:100%;
+}
+/********section10 complete**********/
+
+.section11{
+    min-height:23vw;
+}
+.section11 .container{
+    padding:3vw 0;
+    height:23vw;
+}
+.section11 .container .row .col-xl-3{
+    height:17vw;
+}
+.section11 .container .row .col-xl-2{
+    height:17vw;
+}
+.section11 .container .row .col-11,.section11 .container .row .col-5{
+    line-height:2vw;
+}
+.section11 .container .row .col-5 p,.section11 .container .row .col-11 p{
+    color:rgb(158, 142, 142);
+}
+.section11 .container .row .col-5 small{
+    color:blue;
+}
+.section11 .container .row .end{
+    padding:3vw 0;
+}
+/********section11 complete**********/
+footer{
+    min-height:5vw;
+}
+footer .container{
+    padding:1.5vw;
+}
+footer .col-xl-3 i{
+    font-size:17px;
+    border:1px solid rgb(235, 227, 227);
+    border-radius: 100%;
+    padding:0.8vw;
+    margin:0 4%;
+}
+@media (min-width:320px) and (max-width:767px){
+    .info{
+        display:none;
+    }
+    .form-inline input[type=text]{
+        width:45vw;
+    }
+    .section3 .container-fluid{
+        height:130vw;
+    }
+    .section7{
+        height:30vw;
+    }
+    .section7 .container .heading h2{
+        text-align:left;
+        font-size:20px;
+    }
+    .section9 .container .col-3 h1{
+        font-size:30px;
+        font-weight:bold;
+    }
+    .section11{
+        height:86vw;
+    }
+    .section11 .container .row .col-xl-3,.section11 .container .row .col-xl-2{
+        height:29vw;
+    }
+    .section11 .container .row .col-11,.section11 .container .row .col-5{
+        line-height:4.5vw;
+    }
+    footer{
+        min-height:3vw;
+        font-size:10px;
+    }
+}
